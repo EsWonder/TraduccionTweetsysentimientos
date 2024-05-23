@@ -1,55 +1,55 @@
-abandonar	  -2
-abandonado	  -2
-abandona	  -2
-secuestrado	  -2
-secuestro	  -2
-secuestros  	-2
-aborrecer	  -3
-aborrecido	  -3
-aborrecible	  -3
-aborrece	  -3
-habilidades	  2
-habilidad	  2
-a bordo	  1
-ausente	  -1
-ausentes  	-1
-absolver  	2
-absuelto	  2
-absuelve	  2
-absolviendo	  2
-absorbido	  1
-abuso	  -3
-abusado	  -3
-abusos	  -3
-abusivo	  -3
-aceptar	  1
-aceptado	  1
-aceptando	  1
-acepta	  1
-accidente	  -2
-accidental	    -2
-accidentalmente  	-2
-accidentes  	-2
-lograr	  2
-logrado	  2
-logra	  2
-acusación  	-2
-acusaciones  	-2
-acusar	  -2  
-acusado	  -2
-acusa	  -2
-acusando	  -2
-dolor	  -2
-factible	  1
-doliente	  -2
-absolver	  2
-absuelve	  2
-absuelto	2
-absolver	2
-acrimonioso	-3
-activo	1
-adecuado	1
-admirar	3
+abandonar	-2
+abandonado	-2
+abandona	-2
+secuestrado	-2
+secuestro	-2
+secuestros	-2
+aborrecer	-3
+- aborrecido	-3
+- aborrecible	-3
+- aborrece	-3
+- habilidades	2
+- habilidad	2
+- a bordo	1
+- ausente	-1
+- ausentes	-1
+- absolver	2
+- absuelto	2
+- absuelve	2
+- absolviendo	2
+- absorbido	1
+- abuso	-3
+- abusado	-3
+- abusos	-3
+- abusivo	-3
+- aceptar	1
+- aceptado	1
+- aceptando	1
+- acepta	1
+- accidente	-2
+- accidental	-2
+- accidentalmente	-2
+- accidentes	-2
+- lograr	2
+- logrado	2
+- logra	2
+- acusación	-2
+- acusaciones	-2
+- acusar	-2
+- acusado	-2
+- acusa	-2
+- acusando	-2
+- dolor	-2
+- factible	1
+- doliente	-2
+- absolver	2
+- absuelve	2
+- absuelto	2
+- absolver	2
+- acrimonioso	-3
+- activo	1
+- adecuado	1
+- admirar	3
 - admirado	3
 - admira	3
 - admirando	3
