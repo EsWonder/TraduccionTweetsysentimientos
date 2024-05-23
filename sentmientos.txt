@@ -1,7 +1,7 @@
-abandonar -2
-abandonado -2
-abandona -2
-secuestrado -2
+abandonar   -2
+abandonado   -2
+abandona   -2
+secuestrado   -2
 abducción -2
 abducciones -2
 aborrecer -3
